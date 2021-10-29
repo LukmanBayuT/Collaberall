@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "235315777634",
+    "project_id": "collaberall",
+    "storage_bucket": "collaberall.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235315777634:android:4f38f90d83cff9e0f4413b",
+        "android_client_info": {
+          "package_name": "com.tmad.collaberall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235315777634-fuvctu92fdhceekdukhhv64l24rl79ch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSNXCN8AkdS8RmkDlLw7nbpuHakRA2Dpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235315777634-fuvctu92fdhceekdukhhv64l24rl79ch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
